@@ -1,11 +1,13 @@
 # MMM-CountEvents
 
-**modified*
+**modified from master branch***
 
 this fork addresses my desire to have the displayed output be separated into two categories (can also be both):
 --display in [months] [days] until a recurring/annual event such as birthday, anniversary, etc
 --display time SINCE/UNTIL a specific historical or future event (birth, anniversary, graduation, etc), displayed in format [# of years (if greater than 12months)], [months] and [days] since/to a specific past/future event
 
+
+***************************
 
 Countdown or countup for events
 
